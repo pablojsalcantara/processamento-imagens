@@ -4,6 +4,6 @@
 Nomes: 
 Leonardo Perales Santos - leonardo.perales@unisantos.br
 
-Pablo de Jesus Alcantara - pablo.alcantara@unisantos.br
+Pablo de Jesus Alcantara - pabloalcantara@unisantos.br
 
 Vivian Milena Pereira dos Santos - vsantos@unisantos.br
